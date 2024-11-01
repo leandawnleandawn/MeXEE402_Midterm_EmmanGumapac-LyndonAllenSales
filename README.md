@@ -44,3 +44,31 @@ Interpret the model coefficients to understand the importance of different varia
 Apply the learned knowledge to solve real-world problems using regression analysis.
 Identify potential use cases in various domains (e.g., finance, healthcare, marketing).
 Evaluate the impact and benefits of using regression models in these contexts.
+
+# RESULTS AND DISCUSSION
+
+### Linear Regression
+
+The independent variables are the TV, Radio, and Newspaper.
+
+The Dependent Variable is the Sales.
+
+Using Linear Regression we found out that the accuraacy score of the model is around, 80-94 Percent, which is an acceptable value for Machine Learning Models.
+
+Visualization: 
+
+![image](https://github.com/user-attachments/assets/896f0a26-b431-46ae-9a2c-2f11344554da)
+
+Based on the 
+
+### Logistic Regression
+
+The Independent Variables are the characteristics of the wine, and the dependent variables are the binary values of good wine and bad wine
+
+Since the following data's output has uunique values from 3 to 8, these must be converted into 0 and 1 only.
+
+The Results of the regression showss a 70-75 percent accuracy score based on the Heat Map Created
+
+![image](https://github.com/user-attachments/assets/59767be0-fe24-4fb0-911c-61943684b0df)
+
+
