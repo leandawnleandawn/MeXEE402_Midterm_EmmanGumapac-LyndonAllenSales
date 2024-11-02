@@ -71,4 +71,7 @@ The Results of the regression showss a 70-75 percent accuracy score based on the
 
 ![image](https://github.com/user-attachments/assets/59767be0-fe24-4fb0-911c-61943684b0df)
 
+# References
 
+[1] https://www.kaggle.com/datasets/ashydv/advertising-dataset
+[2] https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
